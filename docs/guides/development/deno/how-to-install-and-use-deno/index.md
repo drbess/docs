@@ -139,7 +139,7 @@ To make Deno available on a system-wide basis, move the binary file using the co
 
 ## How to Use Deno
 
-Deno is a complex application containing many options. This guide only covers certain basic scenarios and provides a brief introduction to how to use Deno. For a complete understanding of the Deno commands and options, see the [Deno Documentation](https://deno.land/manual@v1.29.1/introduction).
+Deno is a complex application containing many options. This guide only covers certain basic scenarios and provides a brief introduction on how to use Deno. For a complete understanding of the Deno commands and options, see the [Deno Documentation](https://deno.land/manual@v1.29.1/introduction).
 
 ### How to Use Deno Interactively
 
